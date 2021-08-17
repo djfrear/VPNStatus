@@ -1,5 +1,6 @@
 # VPNStatus
- Small Windows util for connecting and disconnecting a rasdial compatible VPN connection directly from a tray icon.
+ Small Windows util for connecting and disconnecting a rasdial compatible VPN connection directly from a tray icon. Also provides immediate visibility of connection status.
+
  This was written to solve a specific irritation during the first COVID-19 lockdown in 2020 - bouncing between being connected to a VPN and not!
  I found myself doing this a lot and the native Windows experience is long winded at best, this little tool simply needed writing.
 
